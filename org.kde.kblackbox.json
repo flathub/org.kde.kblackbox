@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.0/src/libkdegames-23.04.0.tar.xz",
-                    "sha256": "26c3afffd24b1efe41ebb839daba7ecbd7feceb290281e5b9ea5195a80bf55f2",
+                    "url": "https://download.kde.org/stable/release-service/23.04.1/src/libkdegames-23.04.1.tar.xz",
+                    "sha256": "898bec75a22d62a37c8c28cdbcfee54ae2b8d3def639111502c134e1407a2e61",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.0/src/kblackbox-23.04.0.tar.xz",
-                    "sha256": "4949c82e5bf0326b3be7ebdd1c8ddff975cee2c5530ecad2da75a66edf76b3e2",
+                    "url": "https://download.kde.org/stable/release-service/23.04.1/src/kblackbox-23.04.1.tar.xz",
+                    "sha256": "e4321ac7471fa0cd3774fede14c2eabf5c25391071972ecf97e763c074e42859",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
